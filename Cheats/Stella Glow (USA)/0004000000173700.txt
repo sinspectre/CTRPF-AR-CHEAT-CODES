@@ -38,39 +38,6 @@ D3000000 00000000
 280D4643 00000063
 280D44BD 00000063
 
-[Giant Orb 2]
-080D4D6A 0000000F
-
-[Song orb 3]
-080D4D68 0000000F
-
-[Thief orb 3]
-080D4D50 0000000F
-
-[Blast orb]
-080D4D2E 0000000F
-
-[Sickness orb 3]
-080D4D32 0000000F
-
-[Sleep orb 3]
-080D4D04 0000000F
-
-[Big sage stone]
-080D4C00 0000000F
-
-[Shameful past mobile ring on drugs!]
-080D4BAA 0000000F
-
-[Healing Ring]
-080D4BCA 0000000F
-
-[Portal ring]
-080D4B96 0000000F
-
-[Rena's orb]
-080D4DAE 0000000F
-
 [Everyone Max Level]
 C0000000 00000010
 180D4480 00000063
@@ -163,39 +130,383 @@ DD000000 00000100
 D0000000 00000000
 {Hold the Button}
 
-[Follow up orb]
-080D4DAB 0000000F
-
 [Fragment 1]
-080D4DB4 0000000F
+080D4DB4 0000005A
 
 [Fragment 2]
-080D4DB6 0000000F
+080D4DB6 0000005A
 
 [Fragment 3]
-080D4DB8 0000000F
+080D4DB8 0000005A
 
 [Fragment 4]
-080D4DBA 0000000F
+080D4DBA 0000005A
 
 [Fragment 5]
-080D4DBC 0000000F
+080D4DBC 0000005A
 
-[Asssassin 2]
-080D4D62 0000000F
+[Item Code]
+080D4XXX 00000001
 
-[Angle orb]
-080D4DAC 0000000F
+*Note Replace XXX with corresponding numbers
 
-[Life gain]
-080D4B9C 0000000F
+-Sword-
+8B8 - Hunter's Sword
+8BA - Short Sword
+8BC - Plated Sword
+8BE - Steel Sword
+8C0 - Black Sword
+8C2 - Sword Breaker
+8C4 - Bastard Sword
+8C8 - Dainsleif
+8CA - Anastasia
+8CC - Orb Meister
+8D0 - Strong Edge
+8D4 - Triple Edge
+8D6 - Ice Shiva
+8DA - Blood Sword
+8E8 - Sword of Light
+8EA - Baton Sword
 
-[Thief orb 2]
-080D4D4E 0000000F
+-Katana-
+8EE - Tachi
+8F2 - Kagechiyo
+8F4 - Kiku Ichimonji
+8F6 - Arachne
+8FA - Muramasa
+8FC - Onikirimaru
+8FE - Marakumo
+900 - Tokinagare Ju
+902 - Hanbei
+906 - Hotenko Ugachi
+908 - Kusanagi
+90C - Kaede
+91E - Shinai
+920 - Sakuya
+922 - Dorothy
 
-[Soul gain]
-080D4B9E 0000000F
+-Spear
+928 - Noble Lance
+92C - Bronze Spear
+92E - Steel Spear
+930 - Armor Spear
+932 - Battle Lance
+934 - Titan Spear
+938 - Virgil
+93A - Trident
+93C - Gungnir
+940 - Venom Lance
+942 - Megadeath
+944 - Trip Lance
+94C - Faust
+958 - Bamboo Spear
+95A - Longinus
+95C - Beatrice
 
-[King's Guard]
-080D4B8D 0000000F
+-Dagger-
+962 - Khukuri
+966 - Survival Knife
+968 - Steel Knife
+96A - Seppukumaru
+96C - Assassin Knife
+96E - Sesshomaru
+970 - Caricature
+974 - Khanjar
+976 - Kotetsu
+97A - Venom Khukuri
+97C - Paralysis Edge
+980 - Kyushumaru
+984 - Lady Joker
+986 - Irukamaru
+992 - BBQ Skewer
+994 - Meta Fiction
+996 - Kunai
 
+-Fist-
+998 - Heirloom Fist
+99C - Field Fist
+99E - Bronze Fist
+9A0 - Royal Fist
+9A2 - Steel Fist
+9A4 - Prototype Fist
+9A8 - Alloy Fist
+9AA - Arondight
+9AE - Dual Fist
+9B2 - Stun Fist
+9B8 - Reboot Fist
+9BC - Freeze Fist
+9C8 - Sushi Fist
+9CA - God Hand
+
+-Bow-
+9CC - Handmade Bow
+9CE - Hunter's Bow
+9D0 - Autumn Bow
+9D2 - King's Bow
+9D4 - Fairy Bow
+9D6 - Eagle Eye
+9DA - Azusa Yumi
+9DC - Dragon Breathe
+9DE - Poison
+9E0 - Tribow
+9E4 - Slumber Bow
+9E8 - Nail Bow
+9EC - Tristan
+9FC - Magical Cute
+9FE - Artemis
+A00 - Holy Kingdom
+
+-Rifle-
+A02 - Rifle
+A06 - Stock Rifle
+A08 - Travel Rifle
+A0A - Dessert Condor
+A0C - Gulf Shot
+A0E - Full Metal
+A12 - R and B
+A14 - Lohengrin
+A16 - Hunter's Rifle
+A1A - Clear Shooter
+A1E - Burn Out
+A22 - Downer Shot
+A26 - Gleipnir
+A2A - Black Out
+A32 - Bamboo gun
+A34 - Dominion
+A36 - Millionaire
+
+-Staff-
+A38 - Shell Staff
+A3A - Wood Staff
+A3C - Craft Staff
+A3E - Clover Staff
+A40 - Magical Staff
+A42 - Jack O Lantern
+A44 - Crystal Staff
+A48 - Magic Stick
+A4A - Hollow Staff
+A4C - Starmine
+A4E - Debut Staff
+A52 - Friendly Staff
+A56 - Stealth
+A5C - Spectrum
+A5E - Yggdrasil Staff
+A60 - Twig
+A68 - Cat Paw
+A6A - Ecthelion
+A6C - Caduceus
+
+-Scythe-
+A6E - Harpe
+A70 - Death Scythe
+A72 - Skull Scythe
+A76 - Venom Scythe
+A82 - Mic Stand
+A84 - Memento Mori
+
+-CPU-
+A8A-CPU 8
+
+
+-Armors-
+Plates - Vests - Shirts
+
+AC8 - Leather Plate
+ACA - Rock Plate
+ACC - Chain Plate
+ACE - Bronze Plate
+AD0 - Gilted Plate
+AD2 - Steel Plate
+AD4 - Alloy Plate
+AD8 - Gold Plate
+ADA - Diamond Plate
+ADC - Merc Plate
+ADE - Ghost Plate
+AE0 - Knight Plate
+AE2 - Dragon Plate
+
+AF0 - Hunting Vest
+AF2 - Leather Vest
+AF4 - Chain Vest
+AF6 - Synthetic Vest
+AF8 - Chain Vest+
+AFA - Hard Leather
+AFC - Carbon Vest
+B00 - Gold Vest
+B02 - Platinum Vest
+B04 - Fishing Vest
+B06 - Chrono Vest
+
+B18 - Shirt
+B1A - Cotton Shirt
+B1C - Camisole
+B1E - Quilted Shirt
+B20 - Corset
+B22 - Armor Camisole
+B24 - Polymer Shirt
+B28 - Barrier Shirt
+B2A - Rusalka Bustier
+B2C - Cloak
+B2E - Desert Cloak
+B30 - Glacier Cloak
+B32 - Aegis Shirt
+B34 - Techno Shirt
+
+
+-Accessories-
+B40 - Attack Ring 
+B42 - Attack Ring 2
+B44 - Attack Ring 3
+B46 - Guard Ring
+B48 - Guard Ring 2
+B4A - Guard Ring 3
+B4C - Magic Ring
+B4E - Magic Ring 2
+B50 - Magic Ring 3
+B5E - Power Stone
+B60 - Power Stone 2
+B62 - Tough Ring
+B64 - Tough Ring 2
+B66 - Mental Ring
+B68 - Mental Ring 2
+B6A - Mobile Ring
+B6C - Mobile Ring 2
+B6E - Physical Ring
+B70 - Physical Ring 2
+B72 - Physical Ring 3
+B76 - Ail Guard
+B78 - Ail Guard 2
+B7A - Ail Guard 3
+B7C - Down Guard
+B7E - Down Guard 2
+B80 - Down Guard 3
+B82 - Stop Guard
+B84 - Stop Guard 2
+B86 - Stop Guard 3
+B88 - Tough Ring 3
+B8A - Mental Ring 3
+B8C - King's Guard
+B8E - Fire Guard
+B90 - Aqua Guard
+B92 - Aero Guard
+B94 - Earth Guard
+B96 - Portal Ring
+B98 - Hercules Boots
+B9C - Life Gain
+B9E - Soul Gain
+BA0 - EXP Boost
+BA6 - Hunter's Brooch
+BA8 - Floral Kerchief
+BAA - Shameful Past
+BAC - Fantasy Trip
+BAE - Oil Absorber
+BB0 - Alto Doll
+BB2 - Lady's Card
+BB4 - Panties
+BB6 - Angel Halo
+BB8 - Priestess Photo
+BBA - Ewan Inc. Card
+BBC - Wing Strap
+BBE - Replica Kingdom
+BC0 - Recipe Book
+BC2 - Hilda's Statue
+BC4 - Dessert Statue
+BC6 - Chicken Ring
+BCA - Healing Ring
+
+-Orbs-
+CE6 - Weak
+CE8 - Weak 2
+CEA - Soft 
+CEC - Soft 2
+CEE - Immobile
+CF0 - Immobile 2
+CF2 - Slow
+CF4 - Slow 2
+CF6 - Venom
+CF8 - Venom 2
+CFA - Burn
+CFC - Burn 2
+D02 - Charm
+D04 - Sleep 3
+D06 - Paralyze
+D08 - Paralyze 2
+D0A - Sleep
+D0C - Sleep 2
+D0E - Stun
+D10 - Stun 2
+D12 - Freeze 
+D14 - Freeze 2
+D16 - Stop
+D18 - Stop 2
+D1A - Blind
+D1C - Blind 2
+D1E - Heavy
+D20 - Heavy 2
+D22 - Seal
+D24 - Seal 2
+D26 - Death
+D2A - Sickness
+D2C - Sickness 2
+D2E - Blast
+D32 - Sickness 3
+D34 - Drain
+D36 - Drain 2
+D38 - Drain 3
+D3A - Absorb
+D3C - Absorb 2
+D3E - Absorb 3
+D40 - Delay
+D42 - Delay 2
+D44 - Delay 3
+D48 - Dispel
+D4A - Dispel 2
+D4C - Thief
+D4E - Thief 2
+D50 - Thief 3
+D54 - Flame
+D56 - River
+D58 - Storm
+D5A - Mud
+D5C - Luck
+D5E - Luck 2
+D60 - Assassin
+D62 - Assassin 2
+D64 - Hermit
+D66 - Hermit 2
+D68 - Song 3
+D6A - Giant 2
+D6C - Hit
+D6E - Hit 2
+D72 - Greed
+D74 - Greed 2
+D76 - Aim
+D78 - Aim 2
+D7A - Aim 3
+D7C - Attack
+D7E - Attack 2
+D80 - Attack 3
+D82 - Chase
+D84 - Chase 2
+D86 - Chase 3
+D88 - Critical
+D8A - Critical 2
+D8C - Critical 3
+D8E - Desperate
+D90 - Desperate 2
+D92 - Corner
+D94 - Corner 2
+D96 - Hunter
+D98 - Giant
+D9A - Song 2
+D9C - Misery
+D9E - Ally
+DA0 - Lone
+DA2 - Hunter 2
+DA4 - Desperate 3
+DA6 - Quick
+DA8 - Quick 2
+DAA - Follow Up
+DAC - Angle
+
+*Don't use multiple action replay codes, it will not work.
